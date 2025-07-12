@@ -84,7 +84,7 @@ Make sure you have the following software installed:
 
 
 ## Contact
-For any questions or feedback, please get in touch with shatabdi@pdx.edu
+For any questions or feedback, please get in touch with sumi.shat@gmail.com
 
 
 
